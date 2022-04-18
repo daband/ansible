@@ -1,1 +1,1 @@
-server1 ansible_connection=ssh ansible_user=huuthang ansible_ssh_pass=Huuthang123. ansible_python_interpreter=/usr/bin/python3
+linux ansible_connection=ssh ansible_user=huuthang ansible_ssh_pass=Huuthang123. ansible_python_interpreter=/usr/bin/python3
